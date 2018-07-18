@@ -19,7 +19,7 @@ ________________________________________________________________________________
 1) Training our model, from the images of various given set.
 2) Detection of the face from the sample image.
 3) extracting the various features from the sample detected image.
-4)predicting the image to get the label from our data_folder i.e name of person.
+4) predicting the image to get the label from our data_folder i.e name of person.
 
 ______________________________________________________________________________________________________
 
